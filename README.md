@@ -9,7 +9,6 @@ API used: https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/ite
 - `pipeline.py` - the script, run this
 - `requirements.txt` - just `requests`
 - `metadata.example.json` - example of what metadata.json looks like
-- `DESIGN.md` - notes on why it's built this way, for anyone curious
 - `output/` - where the CSVs end up (not committed)
 - `metadata.json` - gets created when you run it (not committed)
 
